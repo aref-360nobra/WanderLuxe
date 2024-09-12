@@ -4,6 +4,7 @@
   font-family: "Raleway", system-ui;
 }
 
-.font-inter {
+.font-inter,
+.card-title {
   font-family: "Inter", sans-serif;
 }
